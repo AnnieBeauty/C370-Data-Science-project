@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import datetime
 from newscover.newsapi import fetch_latest_news
 
-api_key = "yourkey";
+api_key = "yourkey"
 
 class NewsAPITests(unittest.TestCase):
 
