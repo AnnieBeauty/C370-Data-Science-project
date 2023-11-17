@@ -1,4 +1,4 @@
-# C370-project
+# C370-Data-Science-project
 
 bruh
 
