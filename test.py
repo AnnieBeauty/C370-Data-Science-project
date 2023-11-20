@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import csv
 
 
-api_key = "6a4baeb680d54ad897a70b82bd35d0fb"
+api_key = ""
 base_url = 'https://newsapi.org/v2/everything'
 query = 'Taylor Swift'
 page_size = 100
