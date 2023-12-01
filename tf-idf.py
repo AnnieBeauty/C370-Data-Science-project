@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-df = pd.read_csv('data.tsv', sep='\t', header=None, names=['title', 'description', 'category','signum'])
+df = pd.read_csv('Data1130.tsv', sep='\t', header=None, names=['title', 'description', 'category','signum'])
 df.fillna('', inplace=True)
 
 df['text'] = df['title'].astype(str) + ' ' + df['description'].astype(str)
@@ -10,7 +10,7 @@ vectorizer = TfidfVectorizer(stop_words='english')
 tfidf_matrix = vectorizer.fit_transform(df['text'])
 feature_names = vectorizer.get_feature_names_out()
 
-categories = ['NFL', 'music', 'award', 'viral_moments', 'relationship', 'miscellaneous','unrelated']
+categories = ['NFL', 'music', 'award', 'viral_moments', 'relationship', 'miscellaneous']
 
 with open('top_words_by_category.tsv', 'w', encoding='utf-8') as file:
     for category in categories:

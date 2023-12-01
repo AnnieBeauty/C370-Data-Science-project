@@ -1,35 +1,29 @@
 Top words for NFL:
-  [['kansas' 'game' 'broncos' 'football' 'kelce' 'travis' 'nfl' 'chiefs'
-  'taylor' 'swift']]: [[1.08610832 1.11765465 1.16257606 1.41998325 1.47346053 1.51291642
-  1.98564914 2.04798746 2.35988555 2.51840879]]
+  [['kansas' 'broncos' 'game' 'football' 'kelce' 'travis' 'nfl' 'taylor'
+  'chiefs' 'swift']]: [[1.09958504 1.14332085 1.15798053 1.45340924 1.54092099 1.57805142
+  2.04870186 2.10775218 2.11411342 2.2497782 ]]
 
 Top words for music:
-  [['heat' 'brazil' 'janeiro' 'fan' 'tour' 'eras' 'rio' 'concert' 'swift'
-  'taylor']]: [[3.40206901 4.13788056 4.79459575 5.11304153 6.02915518 6.0314676
-  7.15343892 7.53754402 9.02624286 9.42604162]]
+  [['album' 'fan' 'rio' 'version' '1989' 'concert' 'eras' 'tour' 'swift'
+  'taylor']]: [[ 5.28404099  5.95475945  7.43014198  8.26886464  9.06815127  9.12456132
+  10.08464558 10.369895   16.36769898 19.40529228]]
 
 Top words for award:
-  [['resume' 'main' 'rodrigo' 'cyrus' 'miley' 'olivia' '2024' 'billionaire'
-  'bloomberg' 'nominees']]: [[0.25141703 0.26757613 0.26757613 0.26757613 0.26757613 0.26757613
-  0.40236309 0.44909857 0.44909857 0.51141661]]
+  [['wallen' 'year' 'nominations' 'sza' 'artist' 'award' 'taylor' 'swift'
+  'apple' '2023']]: [[1.0138939  1.04587203 1.09346992 1.11217673 1.15714576 1.15852962
+  1.21130803 1.29031426 1.32371309 1.38637009]]
 
 Top words for viral_moments:
-  [['grab' 'responded' 'struggles' 'laugh' 'struggling' 'ages' 'views'
-  'viral' 'open' 'cd']]: [[0.2021062  0.21148627 0.21148627 0.21148627 0.21148627 0.22470673
-  0.22470673 0.27281784 0.37777147 0.44941347]]
+  [['female' 'fend' 'festival' 'fever' 'fi' 'field' 'fifth' 'fight'
+  'feelings' 'zone']]: [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
 
 Top words for relationship:
-  [['tour' 'city' 'argentina' 'kansas' 'relationship' 'chiefs' 'taylor'
-  'swift' 'travis' 'kelce']]: [[ 3.77274866  3.91677775  3.99027944  4.1075849   4.6806407   6.92631264
-  11.90666774 12.37254438 14.57879482 15.27356281]]
+  [['eras' 'argentina' 'tour' 'city' 'kansas' 'chiefs' 'taylor' 'swift'
+  'travis' 'kelce']]: [[ 3.88098824  4.05819762  4.37046928  5.12104684  5.3630681   8.91778828
+  13.7989212  13.88681516 19.05587769 19.63433427]]
 
 Top words for miscellaneous:
-  [['usa' 'wife' 'wing' 'argentina' 'new' 'swifties' 'mahomes' 'reporter'
-  'swift' 'taylor']]: [[0.44664693 0.45489908 0.4701158  0.47614291 0.60795183 0.61621489
-  0.61681157 0.79982684 1.16919085 1.24138162]]
-
-Top words for unrelated:
-  [['time' 'jason' 'watch' 'travis' 'eagles' 'chiefs' 'week' 'game' 'kelce'
-  'nfl']]: [[ 4.91630095  4.98408517  6.37765494  6.54996443  7.18905311  7.36255345
-   7.48652633  7.51648567  8.69073888 10.00453211]]
+  [['concert' 'mahomes' 'fans' 'travis' 'chiefs' 'kelce' 'eras' 'tour'
+  'swift' 'taylor']]: [[ 2.45355904  2.93961645  3.23957315  3.26304903  3.85524179  3.94004269
+   4.01142023  4.58737557 11.07350536 11.19078976]]
 
