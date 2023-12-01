@@ -13,9 +13,10 @@ Top words for award:
   'apple' '2023']]: [[1.0138939  1.04587203 1.09346992 1.11217673 1.15714576 1.15852962
   1.21130803 1.29031426 1.32371309 1.38637009]]
 
-Top words for viral_moments:
-  [['female' 'fend' 'festival' 'fever' 'fi' 'field' 'fifth' 'fight'
-  'feelings' 'zone']]: [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+Top words for viral_moment:
+  [['chiefs' 'brittany' 'costume' 'mahomes' 'halloween' 'travis' 'kelce'
+  'viral' 'taylor' 'swift']]: [[1.00380893 1.08160109 1.09253057 1.30037681 1.64350587 1.80235491
+  1.85052621 1.931539   2.84593981 3.0561827 ]]
 
 Top words for relationship:
   [['eras' 'argentina' 'tour' 'city' 'kansas' 'chiefs' 'taylor' 'swift'
@@ -26,4 +27,9 @@ Top words for miscellaneous:
   [['concert' 'mahomes' 'fans' 'travis' 'chiefs' 'kelce' 'eras' 'tour'
   'swift' 'taylor']]: [[ 2.45355904  2.93961645  3.23957315  3.26304903  3.85524179  3.94004269
    4.01142023  4.58737557 11.07350536 11.19078976]]
+
+Top words for top_chart:
+  [['200' 'record' 'week' 'sales' 'billboard' 'album' 'swift' 'version'
+  'taylor' '1989']]: [[1.56014011 1.70676092 1.7944487  1.86047673 2.19307738 2.8191328
+  3.31883422 4.10441583 4.68403528 4.70454968]]
 

@@ -10,7 +10,7 @@ vectorizer = TfidfVectorizer(stop_words='english')
 tfidf_matrix = vectorizer.fit_transform(df['text'])
 feature_names = vectorizer.get_feature_names_out()
 
-categories = ['NFL', 'music', 'award', 'viral_moments', 'relationship', 'miscellaneous']
+categories = ['NFL', 'music', 'award', 'viral_moment', 'relationship', 'miscellaneous', 'top_chart']
 
 with open('top_words_by_category.tsv', 'w', encoding='utf-8') as file:
     for category in categories:
